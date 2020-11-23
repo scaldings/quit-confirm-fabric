@@ -1,8 +1,10 @@
-# Fabric Example Mod
+# QuitConfirm Fabric
 
-## Setup
+## About
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+This mod requires confirmation when leaving a game.  
+Made on request.
+
 
 ## License
 
